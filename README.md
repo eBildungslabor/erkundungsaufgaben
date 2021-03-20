@@ -1,0 +1,2 @@
+# erkundungsaufgaben
+Weiternutzbare Erkundungsaufgaben zum selbstorganisierten Lernen
